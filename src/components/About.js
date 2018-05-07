@@ -16,7 +16,7 @@ const About = () => (
       <p>Besides having studied Advertising,
       PR and Branding, I have always focused on connecting with people
       — be it through writing, filmmaking, design, event organization, or anything that I can come up with.</p>
-      <h3>🤓 I am always learning something new</h3>
+      <h3>🤓 I'm always learning something new</h3>
       <p>Norwegian, Swift, an ancient recipe… anything that piques my interest
       and/or helps me become a better version of myself.</p>
       <h3>🥑 Random things that make me happy</h3>
