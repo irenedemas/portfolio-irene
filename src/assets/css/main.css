@@ -406,7 +406,8 @@ dd { margin: 0 0 0 20px; }
    padding: 0;
 }
 .pagination .page-numbers {
-   font: 15px/18px 'poppins-bold', sans-serif;
+   font: 15px/18px 'poppins', sans-serif;
+   font-weight: bold;
    display: inline-block;
    padding: 6px 10px;
    margin-right: 3px;
@@ -458,7 +459,8 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 16px/30px 'poppins-bold', sans-serif;
+   font: 16px/30px 'poppins', sans-serif;
+   font-weight: bold;
    background: #4FCB8E;
    display: inline-block;
 	text-decoration: none;
@@ -560,7 +562,8 @@ textarea { min-height: 220px; }
 
 label,
 legend {
-   font: 16px/24px 'poppins-bold', sans-serif;
+   font: 16px/24px 'poppins', sans-serif;
+   font-weight: bold;
 	margin: 12px 0;
    color: #3d4145;
    display: block;
@@ -866,7 +869,8 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "poppins-bold", sans-serif;
+  font: 90px/1.1em "poppins", sans-serif;
+  font-weight: bold;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -944,7 +948,8 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "poppins-bold", sans-serif;
+  font: 12px "poppins", sans-serif;
+  font-weight: bold;
   width: 100%;
   letter-spacing: 2.5px;
   margin: 0 auto;
@@ -1022,7 +1027,8 @@ ul#nav li.current a {
 }
 
 #about h2 {
-  font: 22px/30px "poppins-bold", sans-serif;
+  font: 22px/30px "poppins", sans-serif;
+  font-weight: bold;
   color: #fff;
   margin-bottom: 12px;
 }
@@ -1138,7 +1144,8 @@ ul#nav li.current a {
 }
 
 #resume h1 {
-  font: 18px/24px "poppins-bold", sans-serif;
+  font: 18px/24px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 1px;
 }
 #resume h1 span {
@@ -1199,10 +1206,10 @@ ul#nav li.current a {
   border-radius: 3px;
 }
 .bars li em {
-  font: 15px "poppins-bold", sans-serif;
+  font: 15px "poppins", sans-serif;
   color: #fff;
   letter-spacing: 2px;
-  font-weight: normal;
+  font-weight: bold;
   position: relative;
   top: -36px;
 }
@@ -1536,7 +1543,8 @@ ul#nav li.current a {
   padding-bottom: 48px;
 }
 #call-to-action h1 {
-  font: 18px/24px "poppins-bold", sans-serif;
+  font: 18px/24px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 3px;
   color: #fff;
 }
@@ -1557,7 +1565,8 @@ ul#nav li.current a {
   margin-top: 12px;
 }
 #call-to-action h2 {
-  font: 28px/36px "poppins-bold", sans-serif;
+  font: 28px/36px "poppins", sans-serif;
+  font-weight: bold;
   color: #ebeeee;
   margin-bottom: 6px;
 }
@@ -1789,7 +1798,8 @@ call-to-action .button {
 }
 
 #contact h1 {
-  font: 18px/24px "poppins-bold", sans-serif;
+  font: 18px/24px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 3px;
   color: #ebeeee;
   margin-bottom: 6px;
@@ -1809,7 +1819,8 @@ call-to-action .button {
 }
 
 #contact h4 {
-  font: 16px/24px "poppins-bold", sans-serif;
+  font: 16px/24px "poppins", sans-serif;
+  font-weight: bold;
   color: #ebeeee;
   margin-bottom: 6px;
 }
@@ -1826,7 +1837,8 @@ call-to-action .button {
   margin-bottom: 30px;
 }
 #contact label {
-  font: 15px/24px "poppins-bold", sans-serif;
+  font: 15px/24px "poppins", sans-serif;
+  font-weight: bold;
   margin: 12px 0;
   color: #ebeeee;
   display: inline-block;
@@ -2030,7 +2042,8 @@ footer .social li:first-child {
   /* header styles
  ------------------------------------------------------------------ */
  header .banner-text h1 {
-    font: 80px/1.1em 'poppins-bold', sans-serif;
+    font: 80px/1.1em 'poppins', sans-serif;
+    font-weight: bold;
     letter-spacing: -1px;
     margin: 0 auto 12px auto;
  }
@@ -2045,11 +2058,13 @@ footer .social li:first-child {
  ------------------------------------------------------------------ */
  header .banner { padding-bottom: 12px; }
  header .banner-text h1 {
-    font: 78px/1.1em 'poppins-bold', sans-serif;
+    font: 78px/1.1em 'poppins', sans-serif;
+    font-weight: bold;
     letter-spacing: -1px;
  }
  header .banner-text h3 {
-    font: 17px/1.9em 'poppins-bold', sans-serif;
+    font: 17px/1.9em 'poppins', sans-serif;
+    font-weight: bold;
     width: 80%;
  }
  header .banner-text hr {
@@ -2126,7 +2141,8 @@ footer .social li:first-child {
  /* mobile navigation
  -------------------------------------------------------------------- */
  #nav-wrap {
-    font: 12px 'poppins-bold', sans-serif;
+    font: 12px 'poppins', sans-serif;
+    font-weight: bold;
     background: transparent !important;
     letter-spacing: 1.5px;
     width: auto;
@@ -2217,9 +2233,10 @@ footer .social li:first-child {
     padding-bottom: 12px;
     padding-top: 6px;
  }
- header .banner-text h1 { font: 68px/1.1em 'poppins-bold', sans-serif; }
+ header .banner-text h1 { font: 68px/1.1em 'poppins', sans-serif; }
  header .banner-text h3 {
     font: 16px/1.9em 'poppins', sans-serif;
+    font-weight: bold;
     width: 85%;
  }
  header .banner-text hr {
@@ -2279,7 +2296,8 @@ footer .social li:first-child {
  /* ----------------------------------------------------------------- */
  #call-to-action { text-align: center; }
  #call-to-action h1 {
-    font: 16px/24px 'poppins-bold', sans-serif;
+    font: 16px/24px 'poppins', sans-serif;
+    font-weight: bold;
     text-align: center;
     margin-bottom: 30px;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
@@ -2324,7 +2342,8 @@ footer .social li:first-child {
  #contact { padding-bottom: 66px; }
  #contact .section-head { margin-bottom: 12px; }
  #contact .section-head h1 {
-    font: 16px/24px 'poppins-bold', sans-serif;
+    font: 16px/24px 'poppins', sans-serif;
+    font-weight: bold;
     text-align: center;
     margin-bottom: 30px;
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
@@ -2388,7 +2407,8 @@ footer .social li:first-child {
  -------------------------------------------------------------------- */
  header .banner { padding-top: 24px; }
  header .banner-text h1 {
-    font: 40px/1.1em 'poppins-bold', sans-serif;
+    font: 40px/1.1em 'poppins', sans-serif;
+    font-weight: bold;
     margin: 0 auto 24px auto;
  }
  header .banner-text h3 {
