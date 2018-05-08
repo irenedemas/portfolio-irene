@@ -945,6 +945,7 @@ header .scrolldown a:hover {
   padding: 0;
   border: none;
   outline: none;
+  font-weight: bold;
 }
 
 /* nav-wrap */
@@ -980,6 +981,7 @@ ul#nav li {
   list-style: none;
   height: 48px;
   display: inline-block;
+  font-weight: bold;
 }
 
 /* Links */
@@ -992,6 +994,7 @@ ul#nav li a {
   text-decoration: none;
   text-align: left;
   color: #fff;
+  font-weight: bold;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -1002,9 +1005,11 @@ ul#nav li a {
 
 ul#nav li a:active {
   background-color: transparent !important;
+  font-weight: bold;
 }
 ul#nav li.current a {
   color: #F5DDA0;
+  font-weight: bold;
 }
 
 /* ------------------------------------------------------------------ */
@@ -2085,6 +2090,7 @@ footer .social li:first-child {
  #nav-wrap {
     font: 11px ;
     letter-spacing: 1.5px;
+    font-weight: bold;
  }
 
 
@@ -2180,7 +2186,7 @@ footer .social li:first-child {
 
 #nav-wrap > a:before,
  #nav-wrap > a:after {
-   position: absolute;
+  position: absolute;
   border: 2px solid #fff;
   top: 35%;
   left: 25%;
@@ -2210,7 +2216,7 @@ footer .social li:first-child {
 
  /* display menu panels */
 #nav-wrap:target > ul#nav	{
-   display: block;
+    display: block;
     padding: 30px 20px 48px 20px;
     background: #1f2024;
     margin: 0 30px;
