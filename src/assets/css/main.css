@@ -951,7 +951,7 @@ header .scrolldown a:hover {
 /* nav-wrap */
 #nav-wrap {
   font: 12px "poppins", sans-serif;
-  font-weight: bold;
+  font-weight: black;
   width: 100%;
   letter-spacing: 2.5px;
   margin: 0 auto;
@@ -1005,11 +1005,11 @@ ul#nav li a {
 
 ul#nav li a:active {
   background-color: transparent !important;
-  font-weight: bold;
+  font-weight: black;
 }
 ul#nav li.current a {
   color: #F5DDA0;
-  font-weight: bold;
+  font-weight: black;
 }
 
 /* ------------------------------------------------------------------ */
@@ -2058,7 +2058,7 @@ footer .social li:first-child {
  ------------------------------------------------------------------ */
  header .banner-text h1 {
     font: 80px/1.1em 'poppins', sans-serif;
-    font-weight: bold;
+    font-weight: black;
     letter-spacing: -1px;
     margin: 0 auto 12px auto;
  }
@@ -2074,7 +2074,7 @@ footer .social li:first-child {
  header .banner { padding-bottom: 12px; }
  header .banner-text h1 {
     font: 78px/1.1em 'poppins', sans-serif;
-    font-weight: bold;
+    font-weight: black;
     letter-spacing: -1px;
  }
  header .banner-text h3 {
@@ -2090,7 +2090,7 @@ footer .social li:first-child {
  #nav-wrap {
     font: 11px ;
     letter-spacing: 1.5px;
-    font-weight: bold;
+    font-weight: black;
  }
 
 
@@ -2158,7 +2158,7 @@ footer .social li:first-child {
  -------------------------------------------------------------------- */
  #nav-wrap {
     font: 12px 'poppins', sans-serif;
-    font-weight: bold;
+    font-weight: black;
     background: transparent !important;
     letter-spacing: 1.5px;
     width: auto;
@@ -2167,7 +2167,7 @@ footer .social li:first-child {
     right: 0;
  }
  #nav-wrap > a {
-   width: 48px;
+  width: 48px;
   height: 48px;
   text-align: left;
   background-color: #CC5200;
