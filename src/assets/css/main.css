@@ -139,7 +139,7 @@ html {
 
 body {
    background: #fff;
-   font-family: 'poppins-medium', sans-serif;
+   font-family: 'poppins', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
@@ -571,7 +571,7 @@ legend {
 label span,
 legend span {
 	color: #8B9798;
-   font: 14px/24px 'poppins-regular', sans-serif;
+   font: 14px/24px 'poppins', sans-serif;
 }
 
 input[type="checkbox"],
@@ -876,7 +876,8 @@ header .banner-text h1 {
   margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
-  font: 18px/1.9em "poppins-semibold", sans-serif;
+  font: 18px/1.9em "poppins", sans-serif;
+  font-weight: bold;
   color: #fff;
   margin: 0 auto;
   width: 70%;
@@ -1086,7 +1087,8 @@ ul#nav li.current a {
 }
 
 #guides h2 {
-  font: 22px/30px "poppins-semibold", sans-serif;
+  font: 22px/30px "poppins", sans-serif;
+  font-weight: bold;
   color: #fff;
   margin-bottom: 12px;
 }
@@ -1153,7 +1155,8 @@ ul#nav li.current a {
   padding-bottom: 6px;
 }
 #resume h3 {
-  font: 20px/25px "poppins-semibold", sans-serif;
+  font: 20px/25px "poppins", sans-serif;
+  font-weight: bold;
 }
 
 #resume .header-col {
@@ -1366,7 +1369,8 @@ ul#nav li.current a {
   padding-bottom: 60px;
 }
 #portfolio h1 {
-  font: 15px/24px "poppins-semibold", sans-serif;
+  font: 15px/24px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
@@ -1443,7 +1447,8 @@ ul#nav li.current a {
   padding: 18px;
 }
 .portfolio-item .portfolio-item-meta h5 {
-  font: 14px/21px "poppins-bold", sans-serif;
+  font: 14px/21px "poppins", sans-serif;
+  font-weight: bold;
   color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
@@ -1475,17 +1480,18 @@ ul#nav li.current a {
   padding: 12px 36px 18px 36px;
 }
 .popup-modal .description-box h4 {
-  font: 15px/24px "poppins-bold", sans-serif;
+  font: 15px/24px "poppins", sans-serif;
+  font-weight: bold;
   margin-bottom: 12px;
   color: #111;
 }
 .popup-modal .description-box p {
-  font: 14px/24px "poppins-regular", sans-serif;
+  font: 14px/24px "poppins", sans-serif;
   color: #a1a1a1;
   margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
-  font: 11px/21px "poppins-light", sans-serif;
+  font: 11px/21px "poppins", sans-serif;
   color: #a1a1a1;
   letter-spacing: 2px;
   display: block;
@@ -1501,7 +1507,8 @@ ul#nav li.current a {
 }
 .popup-modal .link-box a {
   color: #fff;
-  font: 11px/21px "poppins-bold", sans-serif;
+  font: 11px/21px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 3px;
   cursor: pointer;
 }
@@ -1589,7 +1596,8 @@ call-to-action .button {
   color: #0d0d0d;
 }
 #call-to-action p span {
-  font-family: "poppins-semibold", sans-serif;
+  font-family: "poppins", sans-serif;
+  font-weight: bold;
   color: #d8d8d8;
 }
 
@@ -1612,7 +1620,8 @@ call-to-action .button {
   padding-bottom: 66px;
 }
 #testimonials h1 {
-  font: 18px/24px "poppins-bold", sans-serif;
+  font: 18px/24px "poppins", sans-serif;
+  font-weight: bold;
   letter-spacing: 3px;
   color: #fff;
 }
@@ -1825,7 +1834,7 @@ call-to-action .button {
   margin-bottom: 6px;
 }
 #contact p.lead {
-  font: 18px/36px "poppins-light", sans-serif;
+  font: 18px/36px "poppins", sans-serif;
   padding-right: 3%;
 }
 #contact .header-col {
@@ -1923,7 +1932,7 @@ call-to-action .button {
   display: block;
 }
 #twitter li b a {
-  font: 13px/36px "poppins-regular", Sans-serif;
+  font: 13px/36px "poppins", Sans-serif;
   color: #474747 !important;
   border: none;
 }
@@ -1938,7 +1947,8 @@ footer {
   background-color: #126AFB;
   color: #fff;
   /*font-size: 14px; */
-  font-family: "poppins-medium", sans-serif;
+  font-family: "poppins", sans-serif;
+  font-weight: medium;
   text-align: center;
   position: relative;
 }
