@@ -2243,7 +2243,10 @@ footer .social li:first-child {
     padding-bottom: 12px;
     padding-top: 6px;
  }
- header .banner-text h1 { font: 68px/1.1em 'poppins', sans-serif; }
+ header .banner-text h1 {
+  font: 68px/1.1em 'poppins', sans-serif;
+  font-weight: bold;
+}
  header .banner-text h3 {
     font: 16px/1.9em 'poppins', sans-serif;
     font-weight: bold;
