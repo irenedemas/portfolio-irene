@@ -106,7 +106,7 @@ const Education = () => (
           <h3 className="info">
             <a href="http://www.perdizmagazine.com/en/alegria-online/#top" target="_blank">Online Happiness</a>
             <span></span>
-            <em className="date">Some websites that will improve your day</em>
+            <em className="date">Some websites to improve your day</em>
           </h3>
         </div>
       </div>

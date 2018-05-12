@@ -153,10 +153,20 @@ body {
        Vertical rhythm with leading derived from 6
 --------------------------------------------------------------------- */
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  color: #fff;
+  font-family: 'poppins', sans-serif;
+  font-weight: 900;
+}
+h2 {
   color: #fff;
 	font-family: 'poppins', sans-serif;
-  font-weight: medium;
+  font-weight: bold;
+}
+h3, h4, h5, h6 {
+  color: #fff;
+	font-family: 'poppins', sans-serif;
+  font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
@@ -432,12 +442,12 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+   background-color: #126AFB;
    color: #F5DDA0;
 }
 .pagination .inactive,
 .pagination .inactive:hover {
-   background-color: #E6E8EB;
+  background-color: #126AFB;
 	color: #F5DDA0;
 }
 .pagination .prev, .pagination .next {}
@@ -870,7 +880,7 @@ header .banner-text {
 }
 header .banner-text h1 {
   font: 90px/1.1em "poppins", sans-serif;
-  font-weight: bold;
+  font-weight: 900;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
@@ -945,13 +955,17 @@ header .scrolldown a:hover {
   padding: 0;
   border: none;
   outline: none;
-  font-weight: bold;
+  font-weight: 900;
+  background-color: #126AFB;
+}
+#nav-wrap a:hover {
+  color: #F5DDA0;
 }
 
 /* nav-wrap */
 #nav-wrap {
   font: 12px "poppins", sans-serif;
-  font-weight: black;
+  font-weight: 900;
   width: 100%;
   letter-spacing: 2.5px;
   margin: 0 auto;
@@ -994,7 +1008,7 @@ ul#nav li a {
   text-decoration: none;
   text-align: left;
   color: #fff;
-  font-weight: bold;
+  font-weight: 900;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -1005,11 +1019,11 @@ ul#nav li a {
 
 ul#nav li a:active {
   background-color: transparent !important;
-  font-weight: black;
+  font-weight: 900;
 }
 ul#nav li.current a {
   color: #F5DDA0;
-  font-weight: black;
+  font-weight: 900;
 }
 
 /* ------------------------------------------------------------------ */
@@ -2058,7 +2072,7 @@ footer .social li:first-child {
  ------------------------------------------------------------------ */
  header .banner-text h1 {
     font: 80px/1.1em 'poppins', sans-serif;
-    font-weight: black;
+    font-weight: 900;
     letter-spacing: -1px;
     margin: 0 auto 12px auto;
  }
@@ -2074,7 +2088,7 @@ footer .social li:first-child {
  header .banner { padding-bottom: 12px; }
  header .banner-text h1 {
     font: 78px/1.1em 'poppins', sans-serif;
-    font-weight: black;
+    font-weight: 900;
     letter-spacing: -1px;
  }
  header .banner-text h3 {
@@ -2090,7 +2104,6 @@ footer .social li:first-child {
  #nav-wrap {
     font: 11px ;
     letter-spacing: 1.5px;
-    font-weight: black;
  }
 
 
@@ -2158,7 +2171,7 @@ footer .social li:first-child {
  -------------------------------------------------------------------- */
  #nav-wrap {
     font: 12px 'poppins', sans-serif;
-    font-weight: black;
+    font-weight: 900;
     background: transparent !important;
     letter-spacing: 1.5px;
     width: auto;
@@ -2170,7 +2183,7 @@ footer .social li:first-child {
   width: 48px;
   height: 48px;
   text-align: left;
-  background-color: #CC5200;
+  background-color: #F5DDA0;
   position: relative;
     border: none;
     float: right;
@@ -2218,7 +2231,7 @@ footer .social li:first-child {
 #nav-wrap:target > ul#nav	{
     display: block;
     padding: 30px 20px 48px 20px;
-    background: #1f2024;
+    background: #126AFB;
     margin: 0 30px;
     clear: both;
  }
@@ -2251,7 +2264,7 @@ footer .social li:first-child {
  }
  header .banner-text h1 {
   font: 68px/1.1em 'poppins', sans-serif;
-  font-weight: bold;
+  font-weight: 900;
 }
  header .banner-text h3 {
     font: 16px/1.9em 'poppins', sans-serif;
@@ -2427,7 +2440,7 @@ footer .social li:first-child {
  header .banner { padding-top: 24px; }
  header .banner-text h1 {
     font: 40px/1.1em 'poppins', sans-serif;
-    font-weight: bold;
+    font-weight: 900;
     margin: 0 auto 24px auto;
  }
  header .banner-text h3 {

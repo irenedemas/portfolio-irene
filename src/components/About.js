@@ -10,16 +10,15 @@ const About = () => (
       </div>
       <div className="nine columns main-col">
       <h1>IRENE DE MAS</h1>
-      <h2>All you never wanted to know about me</h2>
       <p></p>
-      <h3>💬 Communication is a huge part of my life</h3>
+      <h2>💬 Communication is a huge part of my life</h2>
       <p>Besides having studied Advertising,
       PR and Branding, I have always focused on connecting with people
       — be it through writing, filmmaking, design, event organization, or anything that I can come up with.</p>
-      <h3>🤓 I'm always learning something new</h3>
+      <h2>🤓 I'm always learning something new</h2>
       <p>Norwegian, Swift, an ancient recipe… anything that piques my interest
       and/or helps me become a better version of myself.</p>
-      <h3>🥑 Random things that make me happy</h3>
+      <h2>🥑 Random things that make me happy</h2>
       <p>Hiking with my dog, writing and reading on trains, learning untranslatable words,
       building things that brighten up someone's day, and avocados.</p>
       </div>
