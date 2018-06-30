@@ -6,8 +6,13 @@ const Banner = () => (
     <div className="row banner">
       <div className="banner-text">
         <h1>DROP ME A LINE</h1>
-        <h2>Have strong opinions on X or just wanna say hi? I would love to hear from you.</h2>
-        <SocialLinks />
+        <h2>Don't want to just say hi? Here are some topics I'd love to talk to you about</h2>
+        <p>📱 Your new favorite app</p>
+        <p>👹 Why you think Comic Sans should (<a href="https://www.mcsweeneys.net/articles/im-comic-sans-asshole" target="_blank">or shouldn't</a>) be a crime</p>
+        <p>🍦 The best ice cream in Barcelona — actually, great ice cream anywhere</p>
+        <p>💡 Life-changing books, articles, movies, podcasts, artists...</p>
+        <p>🐶 <a href="http://www.amodeocristina.com/Dogs-and-Chairs-Thames-Hudson" target="_blank">Chairs that look like dogs</a></p>
+      <SocialLinks />
       </div>
     </div>
   </section>
