@@ -6,7 +6,7 @@ const Work = () => (
       <h1>
         <span><a href="http://www.agapornismag.com" target="_blank">AGAPORNIS MAG</a></span>
       </h1>
-      <p>Where companion animals and contemporary culture meet 🐶</p>
+      <p>Where companion animals and contemporary culture meet 🐱</p>
     </div>
 
     <div className="nine columns main-col">
