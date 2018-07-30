@@ -29,3 +29,10 @@ TemplateWrapper.propTypes = {
 };
 
 export default TemplateWrapper;
+
+<script>
+window.EMOJICOM_WIDGET = {
+  campaign: "EBlvc46awFpMgDuzkDRs"
+};
+</script>
+<script src="https://cdn.emojicom.io/embed/widget.js" async></script>
