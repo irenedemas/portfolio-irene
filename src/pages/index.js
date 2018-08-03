@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import { Helmet } from 'react-helmet'
 
 import '../assets/css/main.css';
 
@@ -18,6 +19,10 @@ const IndexPage = () => (
     <Resume />
     <Contact />
     <Footer />
+    <Helmet>
+        <script>{`window.EMOJICOM_WIDGET = { campaign: "EBlvc46awFpMgDuzkDRs" };`}</script>
+        <script src="https://cdn.emojicom.io/embed/widget.js" async></script>
+    </Helmet>
   </div>
 );
 
