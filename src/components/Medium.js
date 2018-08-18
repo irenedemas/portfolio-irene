@@ -14,6 +14,16 @@ const Work = () => (
     <div className="row item">
       <div className="twelve columns">
         <h3 className="info">
+          <a href="https://medium.com/@irenedemas/thank-you-for-the-music-290eb5a4367b" target="_blank">Thank Your for the Music</a>
+          <span></span>
+          <em className="date">Mixtapes, drama and Seth Cohen quips</em>
+        </h3>
+      </div>
+    </div>
+
+    <div className="row item">
+      <div className="twelve columns">
+        <h3 className="info">
           <a href="https://medium.com/@irenedemas/coding-is-cheaper-than-therapy-a9448e43e54a" target="_blank">Coding Is Cheaper Than Therapy</a>
           <span></span>
           <em className="date">David Foster Wallace, a Buddhist monk and a developer walk into a bar</em>
