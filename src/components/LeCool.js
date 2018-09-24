@@ -14,6 +14,16 @@ const Skills = () => (
   <div className="row item">
     <div className="twelve columns">
       <h3 className="info">
+        <a href="http://barcelona.lecool.com/place/three-marks-coffee/" target="_blank">Three Marks Coffee</a>
+        <span></span>
+        <em className="date">Dog-friendly Specialty Coffee</em>
+      </h3>
+    </div>
+  </div>
+
+  <div className="row item">
+    <div className="twelve columns">
+      <h3 className="info">
         <a href="http://barcelona.lecool.com/place/mexcla/" target="_blank">Mexcla</a>
         <span></span>
         <em className="date">Mexican Restaurant</em>
