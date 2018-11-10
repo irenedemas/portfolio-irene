@@ -14,6 +14,16 @@ const Work = () => (
     <div className="row item">
       <div className="twelve columns">
         <h3 className="info">
+          <a href="https://medium.com/@irenedemas/ux-ui-prework-adding-a-feature-to-the-whole-bank-app-48ab700fe606" target="_blank">Adding a Feature to the Whole Bank App</a>
+          <span></span>
+          <em className="date">Featured on <a href="https://uxdesign.cc" target="_blank">UX Collective</a>⭐</em>
+        </h3>
+      </div>
+    </div>
+
+    <div className="row item">
+      <div className="twelve columns">
+        <h3 className="info">
           <a href="https://medium.com/@irenedemas/thank-you-for-the-music-290eb5a4367b" target="_blank">Thank Your for the Music</a>
           <span></span>
           <em className="date">Mixtapes, drama and Seth Cohen quips</em>
@@ -36,7 +46,7 @@ const Work = () => (
         <h3 className="info">
           <a href="https://blog.usejournal.com/next-destination-home-9fcf932b19d6" target="_blank">Next Destination: Home</a>
           <span></span>
-          <em className="date">Featured on <a href="https://blog.usejournal.com" target="_blank">Noteworthy</a></em>
+          <em className="date">Featured on <a href="https://blog.usejournal.com" target="_blank">Noteworthy</a>⭐</em>
         </h3>
       </div>
     </div>
