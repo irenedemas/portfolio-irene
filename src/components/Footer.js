@@ -9,7 +9,7 @@ const Footer = () => (
 
         <ul className="copyright">
           <li>
-            Proudly built by <a href="https://github.com/irenedemas" target="_blank">Irene de Mas</a> with <a href="https://www.gatsbyjs.org" target="_blank">Gatsby</a> ⚛️
+            Proudly built by <a href="https://github.com/irenedemas" target="_blank">Irene de Mas</a> using <a href="https://www.gatsbyjs.org" target="_blank">Gatsby</a> ⚛️
           </li>
         </ul>
       </div>

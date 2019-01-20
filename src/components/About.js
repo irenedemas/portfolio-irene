@@ -20,7 +20,7 @@ const About = () => (
 
         <h2>🤗 Be Nice to People</h2>
         <p>I have always focused on connecting with people — be it through design, writing, filmmaking, or anything I can come up with.
-        Want to know more about this philosophy? I published an essay on <a href="https://medium.com/@irenedemas/strong-to-be-kind-5c7514b5cde2" target="_blank">self-improvement, working hard and being nice to people</a>.</p>
+        Want to know more about this? I published an essay on <a href="https://medium.com/@irenedemas/strong-to-be-kind-5c7514b5cde2" target="_blank">self-improvement, working hard and being nice to people</a>.</p>
         <h2>... and random things that make me happy</h2>
         <p>Hiking with my dog, listening to podcasts on trains, learning untranslatable words,
       building things that brighten up someone's day, and avocados.</p>
