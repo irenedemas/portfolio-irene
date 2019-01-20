@@ -56,7 +56,7 @@ const Education = () => (
           <h3 className="info">
             <a href="http://www.perdizmagazine.com/en/feels-good-gassenhauer/#top" target="_blank">Feels Good: Gassenhauer</a>
             <span></span>
-            <em className="date">On Carl Orffs brilliant piece</em>
+            <em className="date">On Carl Orff's brilliant piece</em>
           </h3>
         </div>
       </div>
@@ -113,7 +113,6 @@ const Education = () => (
 
     </div>
   </div>
-
 
 );
 

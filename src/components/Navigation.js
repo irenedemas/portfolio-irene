@@ -16,7 +16,7 @@ const Navigation = () => (
       </li>
       <li>
         <a className="smoothscroll" href="#guides">
-          🍔 GUIDE
+          🍔 ASK IRENE
         </a>
       </li>
       <li>
