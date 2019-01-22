@@ -25,7 +25,11 @@ const Work = () => (
             </a>
             <span />
             <em className="date">
-              Imagining a world where Dieter Rams is a chef
+            Featured on{" "}
+              <a href="https://uxdesign.cc" target="_blank">
+                UX Collective
+              </a>{" "}
+              ⭐
             </em>
           </h3>
         </div>
