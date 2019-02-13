@@ -25,6 +25,11 @@ const Navigation = () => (
         </a>
       </li>
       <li>
+        <a className="smoothscroll" href="#now">
+          🎯 HEAVY FIXATION
+        </a>
+      </li>
+      <li>
         <a className="smoothscroll" href="#contact">
           👋 CONTACT
         </a>

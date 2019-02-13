@@ -135,17 +135,20 @@ table {
 html {
    font-size: 62.5%;
    -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
 }
 
 body {
    background: #fff;
    font-family: 'poppins', sans-serif;
+
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
 	color: #fff;
 
-   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 	-webkit-text-size-adjust: 100%;
 }
 
@@ -1732,7 +1735,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #126AFB;
+  background: #4FCB8E;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1773,6 +1776,36 @@ call-to-action .button {
 }
 #contact .social li:first-child {
   margin-left: 0;
+}
+
+/* ------------------------------------------------------------------ */
+/* h. Now Section
+/* ------------------------------------------------------------------ */
+
+#now {
+  background: #126AFB;
+  padding-top: 96px;
+  padding-bottom: 66px;
+  overflow: hidden;
+}
+
+#now a,
+#now a:visited {
+  color: #fff;
+}
+#now a:hover,
+#now a:focus {
+  color: #F5DDA0;
+}
+#now h2 {
+  font: 22px/30px "poppins", sans-serif;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 12px;
+}
+#now p {
+  line-height: 30px;
+  color: #fff;
 }
 
 /* ------------------------------------------------------------------ */
