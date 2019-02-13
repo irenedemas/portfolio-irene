@@ -15,7 +15,7 @@ const About = () => (
         <h3>Film</h3>
         <p>💑 <a href="https://www.imdb.com/title/tt5096846/" target="_blank">The Boy Downstairs</a></p>
         <h3>Project</h3>
-        <p>⚡️ Pansa (more info coming sometime 2019)</p>
+        <p>⚡️ Pansa (more info coming some time 2019)</p>
       </div>
     </div>
   </section>
