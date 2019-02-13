@@ -6,7 +6,7 @@ import LeCool from "./LeCool";
 import Medium from "./Medium";
 
 const Resume = () => (
-  <section id="resume">
+  <section id="writing">
     <Medium />
     <Perdiz />
     <Agapornis />

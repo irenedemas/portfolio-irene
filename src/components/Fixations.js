@@ -1,8 +1,7 @@
 import React from 'react';
-import SocialLinks from './SocialLinks';
 
 const About = () => (
-  <section id="now">
+  <section id="fixations">
     <div className="row">
       <div className="nine columns main-col">
         <h1>HEAVY FIXATION</h1>
