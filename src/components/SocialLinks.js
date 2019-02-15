@@ -34,11 +34,6 @@ const SocialLinks = () => (
         <FaInstagram />
       </a>
     </li>
-    <li>
-      <a href="https://www.pinterest.es/palento/" target="_blank">
-        <FaPinterest />
-      </a>
-    </li>
   </ul>
 );
 
