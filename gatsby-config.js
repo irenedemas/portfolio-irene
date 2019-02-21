@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Irene de Mas",
     author: "Irene de Mas",
-    description: "Irene de Mas | Content Creator & Food Nerd"
+    description: "Irene de Mas | Product Designer & Project Manager"
   },
   pathPrefix: "/",
   plugins: [
