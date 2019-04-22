@@ -15,7 +15,7 @@ const About = () => (
         <h3>Film</h3>
         <p>🌝 <a href="https://www.imdb.com/title/tt3954660/" target="_blank">Suntan</a></p>
         <h3>Project</h3>
-        <p>⚡️ Pansa (launching soon-ish)</p>
+        <p>🤖 <a href="https://qworty.co" target="_blank">QWORTY Keyboard</a></p>
       </div>
     </div>
   </section>
