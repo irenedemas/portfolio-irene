@@ -6,8 +6,7 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">Hello!</h1>
       <h3>
-      I'm Irene de Mas,
-        <p>a Project Manager, Freelance Writer & Food Nerd from Barcelona</p>
+      I'm Irene de Mas,<br />a Project Manager, Freelance Writer & Food Nerd from Barcelona
       </h3>
       <SocialLinks />
       <h3>☝️ Say hello or keep scrolling 👇</h3>
