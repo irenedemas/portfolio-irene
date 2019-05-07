@@ -13,7 +13,7 @@ const About = () => (
         <h3>Podcast</h3>
         <p>🍳 <a href="https://www.productbreakfastclub.com" target="_blank">Product Breakfast Club</a></p>
         <h3>Book</h3>
-        <p>⚛️ <a href="https://www.goodreads.com/book/show/111185.Physics_and_Philosophy target="_blank">Physics and Philosophy: The Revolution in Modern Science"</a></p>
+        <p>⚛️ <a href="https://www.goodreads.com/book/show/111185.Physics_and_Philosophy" target="_blank">Physics and Philosophy: The Revolution in Modern Science</a></p>
         <h3>Film</h3>
         <p>⛰ <a href="https://www.imdb.com/title/tt7775622/" target="_blank">Free Solo</a></p>
         <h3>Project</h3>
