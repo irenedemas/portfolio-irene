@@ -5,7 +5,7 @@ const About = () => (
     <div className="row">
       <div className="nine columns main-col">
         <h1>ASK IRENE</h1>
-        <h2>A web app that helps you find the perfect spot for any occasion 🍜</h2>
+        <h2>A web app to find the perfect spot for any occasion 🍜</h2>
         <p>I've been obsessed with food, cozy cafés and cool bathrooms for as long as I can remember. Thanks to that, I have a mental database of places and always end up recommending them to friends,
         acquaintances and nosy strangers. On <a href="https://www.irene.cool" target="_blank">Ask Irene</a> you can access my wisdom 24/7
         to find the perfect spot for you. Curious about how we built Ask Irene in just two weeks? <a href="https://medium.com/ironhack/building-ask-irene-841f3d939d00" target="_blank">There's an article for that.</a></p>
