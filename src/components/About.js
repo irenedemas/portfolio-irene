@@ -14,9 +14,7 @@ const About = () => (
         <h2>My life is guided by two simple but powerful principles</h2>
         <h2>🚀 Work Hard</h2>
         <p>As soon as I finish a project, I start creating something new — an app, a feature, an article, you name it. <a href="http://bit.ly/happierapps" target="_blank">A deep respect for well-designed products</a> brought me to <a href="https://medium.com/ironhack/coding-is-cheaper-than-therapy-a9448e43e54a" target="_blank">web and iOS development</a>, UX/UI Design...
-        until I ended up building my own things.
-        The most challenging project so far has been the web app <a href="https://irenedemas.com/#guides">Ask Irene</a>,
-        where I put into practice all I know (and keep learning) about Product Design.</p>
+        until I ended up building my own things to put into practice all I know (and keep learning) about Product Design.</p>
 
         <h2>🤗 Be Nice to People</h2>
         <p>I have always focused on connecting with people — be it through design, writing, filmmaking, or anything I can come up with.

@@ -5,7 +5,7 @@ const About = () => (
     <div className="row">
       <div className="nine columns main-col">
         <h1>HEAVY FIXATION</h1>
-        <h2>50% heavy rotation playlist, 40% <a href="https://nownownow.com/about" target="_blank">now page</a>, 10% <a href="https://medium.com/ironhack/coding-is-cheaper-than-therapy-a9448e43e54a">OCD</a></h2>
+        <h2>50% heavy rotation playlist, 40% <a href="https://nownownow.com/about" target="_blank">now page</a>, 10% <a href="https://medium.com/ironhack/coding-is-cheaper-than-therapy-a9448e43e54a" target="_blank">OCD</a></h2>
         <h3>Food</h3>
         <p>👨‍ Restaurants for middle aged people</p>
         <h3>Music</h3>

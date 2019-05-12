@@ -15,8 +15,8 @@ const Navigation = () => (
         </a>
       </li>
       <li>
-        <a className="smoothscroll" href="#guides">
-          🍔 ASK IRENE
+        <a className="smoothscroll" href="#product">
+          🏗 PRODUCT
         </a>
       </li>
       <li>

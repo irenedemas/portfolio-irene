@@ -1082,60 +1082,60 @@ ul#nav li.current a {
 }
 
 /* ------------------------------------------------------------------ */
-/* c2. Guides Section
+/* c2. Product Section
 /* ------------------------------------------------------------------ */
 
-#guides {
+#product {
   background: #126AFB;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
 }
 
-#guides a,
-#guides a:visited {
+#product a,
+#product a:visited {
   color: #fff;
 }
-#guides a:hover,
-#guides a:focus {
+#product a:hover,
+#product a:focus {
   color: #F5DDA0;
 }
 
-#guides h2 {
+#product h2 {
   font: 22px/30px "poppins", sans-serif;
   font-weight: bold;
   color: #fff;
   margin-bottom: 12px;
 }
-#guides p {
+#product p {
   line-height: 30px;
   color: #fff;
 }
-#guides .profile-pic {
+#product .profile-pic {
   position: relative;
   width: 120px;
   height: 120px;
   border-radius: 100%;
 }
-#guides .contact-details {
+#product .contact-details {
   width: 41.66667%;
 }
-#guides .download {
+#product .download {
   width: 58.33333%;
   padding-top: 6px;
 }
-#guides .main-col {
+#product .main-col {
   padding-right: 5%;
 }
-#guides .download .button {
+#product .download .button {
   margin-top: 6px;
   background: #444;
 }
-#guides .download .button:hover {
+#product .download .button:hover {
   background: #fff;
   color: #F5DDA0;
 }
-#guides .download .button i {
+#product .download .button i {
   margin-right: 15px;
   font-size: 20px;
 }
@@ -1791,15 +1791,15 @@ footer .social li:first-child {
  #about .contact-details { width: 50%; }
  #about .download { width: 50%; }
 
- /* Guides Section
+ /* Product Section
  ------------------------------------------------------------------- */
- #guides .profile-pic {
+ #product .profile-pic {
     width: 114px;
     height: 114px;
     margin-left: 12px;
  }
- #guides .contact-details { width: 50%; }
- #guides .download { width: 50%; }
+ #product .contact-details { width: 50%; }
+ #product .download { width: 50%; }
 
  /* Writing Section
  ------------------------------------------------------------------- */
@@ -1962,15 +1962,15 @@ footer .social li:first-child {
  #about .main-col { padding-right: 30px; }
 
 
- /* Guides Section
+ /* Product Section
  -------------------------------------------------------------------- */
- #guides .profile-pic { display: none; }
- #guides .download .button {
+ #product .profile-pic { display: none; }
+ #product .download .button {
     width: 100%;
     text-align: center;
     padding: 15px 20px;
  }
- #guides .main-col { padding-right: 30px; }
+ #product .main-col { padding-right: 30px; }
 
 
  /* Writing Section
