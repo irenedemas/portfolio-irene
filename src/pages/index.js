@@ -6,7 +6,7 @@ import '../assets/css/main.css';
 import Header from '../components/Header';
 import About from '../components/About';
 import Writing from '../components/Writing';
-import Guides from '../components/Guides';
+import Product from '../components/Product';
 import Contact from '../components/Contact';
 import Fixations from '../components/Fixations';
 import Footer from '../components/Footer';
@@ -16,7 +16,7 @@ const IndexPage = () => (
   <div>
     <Header />
     <About />
-    <Guides />
+    <Product />
     <Writing />
     <Fixations />
     <Contact />

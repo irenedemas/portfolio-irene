@@ -14,7 +14,7 @@ const About = () => (
         <h2><a href="https://qworty.co" target="_blank">QWORTY</a> is an iOS keyboard for movie buffs and pop culture freaks 💫</h2>
         <p>Instantly find thousands of quotes from movies, songs, books, memes, or anywhere you can imagine. Search, edit and share any quote — no matter the app you're using.</p>
         <a a href="https://qworty.co" target="_blank" className="button">QWORTY</a>
-        <h2>More projects coming soon</h2>
+        <h2>More products coming soon</h2>
       </div>
     </div>
   </section>
