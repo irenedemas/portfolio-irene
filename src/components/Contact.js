@@ -12,8 +12,8 @@ const About = () => (
         <p>🍦 The best ice cream in Barcelona — actually, great ice cream anywhere</p>
         <p>💡 Life-changing books, articles, movies, podcasts, artists...</p>
         <p>🐶 <a href="http://www.amodeocristina.com/Dogs-and-Chairs-Thames-Hudson" target="_blank">Chairs that look like dogs</a></p>
-        <h2>Came up with an interesting topic?</h2>
-        <p>Send me an email to <a href="mailto:im@irene.cool">im@irene.cool</a> or follow my randomly updated Social Media channels.</p>
+        <h2>Decided to get in touch?</h2>
+        <p>Send me an email to <a href="mailto:im@irene.cool">im@irene.cool</a> or stalk me on my randomly updated Social Media channels.</p>
         <SocialLinks />
       </div>
     </div>
