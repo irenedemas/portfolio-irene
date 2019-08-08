@@ -9,13 +9,13 @@ const About = () => (
         <h3>Food</h3>
         <p>👨‍ Restaurants for middle aged people</p>
         <h3>Music</h3>
-        <p>🎸 <a href="https://open.spotify.com/album/2993ObBLVBR3OyxoEkKmao?si=BysosrFsRbavxkAUJKScOw" target="_blank">a Rússia</a></p>
+        <p>🎸 <a href="https://open.spotify.com/album/2993ObBLVBR3OyxoEkKmao?si=BysosrFsRbavxkAUJKScOw" target="_blank">a Rússia (Antònia Font, 2001)</a></p>
         <h3>Podcast</h3>
-        <p>🍳 <a href="https://after-on.com" target="_blank">After On</a></p>
+        <p>🤔 <a href="https://after-on.com" target="_blank">After On (Rob Reid, 2017– )</a></p>
         <h3>Book</h3>
-        <p>⚛️ <a href="https://www.goodreads.com/book/show/111185.Physics_and_Philosophy" target="_blank">Physics and Philosophy</a></p>
+        <p>⚛️ <a href="https://www.goodreads.com/book/show/111185.Physics_and_Philosophy" target="_blank">Physics and Philosophy (Werner Heisenberg, 1958)</a></p>
         <h3>Film</h3>
-        <p>⛰ <a href="https://www.imdb.com/title/tt0070644/" target="_blank">Scener ur ett äktenskap</a></p>
+        <p>👫 <a href="https://www.imdb.com/title/tt0070644/" target="_blank">Scener ur ett äktenskap (Ingmar Bergman, 1973)</a></p>
         <h3>Project</h3>
         <p>🤖 <a href="https://qworty.co" target="_blank">QWORTY Keyboard</a></p>
       </div>
