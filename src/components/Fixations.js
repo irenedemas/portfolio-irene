@@ -17,7 +17,7 @@ const About = () => (
         <h3>Film</h3>
         <p>👫 <a href="https://www.imdb.com/title/tt0070644/" target="_blank">Scener ur ett äktenskap (Ingmar Bergman, 1973)</a></p>
         <h3>Project</h3>
-        <p>🤖 <a href="https://qworty.co" target="_blank">QWORTY Keyboard</a></p>
+        <p>🤖 <a href="https://www.irene.cool" target="_blank">Ask Irene 2.0</a></p>
       </div>
     </div>
   </section>
