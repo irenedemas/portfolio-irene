@@ -7,9 +7,9 @@ const About = () => (
         <h1>HEAVY FIXATION</h1>
         <h2>50% heavy rotation playlist, 40% <a href="https://nownownow.com/about" target="_blank">now page</a>, 10% <a href="https://medium.com/ironhack/coding-is-cheaper-than-therapy-a9448e43e54a" target="_blank">OCD</a></h2>
         <h3>Food</h3>
-        <p>👨‍ Restaurants for middle aged people</p>
+        <p>🌶️ Kimchi anything</p>
         <h3>Music</h3>
-        <p>🎸 <a href="https://open.spotify.com/album/0PJgdLOhB6MUxABKi4i8uK?si=4axUbHyuQWeRtDGtqzrLLw" target="_blank">Per la bona gent (Manel, 2019)</a></p>
+        <p>🎸 <a href="https://open.spotify.com/album/2JsH6mfSAfojZhQJ5CuLMK?si=07tibcIuQwu4fp5ebWmUlA" target="_blank">Succession, Original Series Soundtrack (Nicholas Britell, 2019)</a></p>
         <h3>Podcast</h3>
         <p>🤝 <a href="https://www.relay.fm/rd" target="_blank">Reconcilable Differences (John Siracusa & Merlin Mann)</a></p>
         <h3>Book</h3>
