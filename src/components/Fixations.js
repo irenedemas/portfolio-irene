@@ -11,11 +11,11 @@ const About = () => (
         <h3>Music</h3>
         <p>🎸 <a href="https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv?si=q3i0opwETQ-IwncWsR-Tkg" target="_blank">Depression Cherry (Beach House, 2015)</a></p>
         <h3>Podcast</h3>
-        <p>🤝 <a href="http://replyall.limo" target="_blank">Reply All (Alex Goldman & PJ Vogt)</a></p>
+        <p>👨‍💻 <a href="http://replyall.limo" target="_blank">Reply All (Alex Goldman & PJ Vogt)</a></p>
         <h3>Book</h3>
-        <p>⚛️ <a href="https://www.goodreads.com/book/show/6750.The_Broom_of_the_System" target="_blank">The Broom of the System (David Foster Wallace, 1987)</a></p>
+        <p>🐦 <a href="https://www.goodreads.com/book/show/6750.The_Broom_of_the_System" target="_blank">The Broom of the System (David Foster Wallace, 1987)</a></p>
         <h3>Film</h3>
-        <p>👫 <a href="https://www.imdb.com/title/tt6751668/" target="_blank">Parasite (Bong Joon Ho, 2019)</a></p>
+        <p>🏡 <a href="https://www.imdb.com/title/tt6751668/" target="_blank">Parasite (Bong Joon Ho, 2019)</a></p>
         <h3>Project</h3>
         <p>🤖 <a href="https://www.irene.cool" target="_blank">Ask Irene 2.0</a></p>
       </div>
