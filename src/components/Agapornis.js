@@ -8,7 +8,7 @@ const Work = () => (
           <a href="https://www.instagram.com/a_g_a_p_o_r_n_i_s_mag/" target="_blank">AGAPORNIS MAG</a>
         </span>
       </h1>
-      <p>Where companion animals and contemporary culture meet 🐱</p>
+      <p>Where companion animalsand contemporary culture meet 🐱</p>
     </div>
 
     <div className="nine columns main-col">

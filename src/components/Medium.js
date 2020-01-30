@@ -56,7 +56,7 @@ const Work = () => (
               href="https://medium.com/@irenedemas/ux-ui-prework-adding-a-feature-to-the-whole-bank-app-48ab700fe606"
               target="_blank"
             >
-              Adding a Feature to the Whole Bank App
+              Adding a Feature to a Banking App
             </a>
             <span />
             <em className="date">
