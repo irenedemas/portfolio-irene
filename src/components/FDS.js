@@ -17,7 +17,7 @@ const Work = () => (
                 <h3 className="info">
                 <a href="https://www.finnishdesignshop.com/design-stories/travel/barcelona-top-3-restaurants-for-design-lovers" target="_blank">Restaurants for Design Lovers</a>
                 <span />
-                <em className="date">Where great food and interior design meet</em>
+                <em className="date">Great design, even better food</em>
                 </h3>
             </div>
         </div>
