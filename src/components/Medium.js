@@ -38,10 +38,7 @@ const Work = () => (
       <div className="row item">
         <div className="twelve columns">
           <h3 className="info">
-            <a
-              href="https://medium.com/@irenedemas/see-you-soon-ironhackers-3e5f66c35fc7"
-              target="_blank"
-            >
+            <a href="https://medium.com/@irenedemas/see-you-soon-ironhackers-3e5f66c35fc7" target="_blank">
               See You Soon, Ironhackers
             </a>
             <span />

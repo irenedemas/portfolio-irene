@@ -8,6 +8,7 @@ import Medium from "./Medium";
 const Resume = () => (
   <section id="writing">
     <Medium />
+    <FDS />
     <Perdiz />
     <Agapornis />
     <LeCool />
