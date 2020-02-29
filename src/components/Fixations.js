@@ -13,7 +13,7 @@ const About = () => (
         <h3>Podcast</h3>
         <p>👨‍💻 <a href="http://replyall.limo" target="_blank">Reply All (Alex Goldman & PJ Vogt)</a></p>
         <h3>Book</h3>
-        <p>👱‍♀️ <a href="https://www.goodreads.com/book/show/19288043-gone-girl" target="_blank">Gone Girl (Gillian Flynn, 2012)</a></p>
+        <p>🌇 <a href="https://www.goodreads.com/book/show/22711627-building-and-dwelling" target="_blank">Building and Dwelling (Richard Sennett, 2018)</a></p>
         <h3>Film</h3>
         <p>🏡 <a href="https://www.imdb.com/title/tt6751668/" target="_blank">Parasite (Bong Joon Ho, 2019)</a></p>
         <h3>Project</h3>
