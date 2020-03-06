@@ -9,7 +9,7 @@ const About = () => (
         <h3>Food</h3>
         <p>🌶️ Kimchi anything</p>
         <h3>Music</h3>
-        <p>🎸 <a href="https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv?si=q3i0opwETQ-IwncWsR-Tkg" target="_blank">Depression Cherry (Beach House, 2015)</a></p>
+        <p>🎸 <a href="https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=se-aYPWQTh-VUVTwUWbsIA" target="_blank">The Slow Rush (Tame Impala, 2020)</a></p>
         <h3>Podcast</h3>
         <p>👨‍💻 <a href="http://replyall.limo" target="_blank">Reply All (Alex Goldman & PJ Vogt)</a></p>
         <h3>Book</h3>
