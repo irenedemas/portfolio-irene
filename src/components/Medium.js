@@ -148,7 +148,7 @@ const Work = () => (
               href="https://medium.com/@irenedemas/steal-from-the-best-massimo-bottura-626cdfa45a1e"
               target="_blank"
             >
-              Massimo Bottura
+              The Best Meal Ever?
             </a>
             <span />
             <em className="date">Lunch at the world’s best restaurant</em>
