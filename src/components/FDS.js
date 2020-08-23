@@ -15,6 +15,16 @@ const Work = () => (
         <div className="row item">
             <div className="twelve columns">
                 <h3 className="info">
+                <a href="https://www.finnishdesignshop.com/design-stories/architecture/la-muralla-roja-a-cinematographic-dream-house-in-southern-spain" target="_blank">La Muralla Roja</a>
+                <span />
+                <em className="date">A cinematographic dream house</em>
+                </h3>
+            </div>
+        </div>
+
+        <div className="row item">
+            <div className="twelve columns">
+                <h3 className="info">
                 <a href="https://www.finnishdesignshop.com/design-stories/trending/design-lover-watch-these-films" target="_blank">Films for Design Lovers</a>
                 <span />
                 <em className="date">Top picks for binge-watching designers</em>
