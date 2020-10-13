@@ -12,6 +12,17 @@ const Work = () => (
       </div>
 
       <div className="nine columns main-col">
+
+        <div className="row item">
+            <div className="twelve columns">
+                <h3 className="info">
+                <a href="https://www.finnishdesignshop.com/design-stories/interview/fatboy-pauline-barendregt" target="_blank">Interview with Fatboy's Pauline Barendregt</a>
+                <span />
+                <em className="date">Pops of color in uncertain times</em>
+                </h3>
+            </div>
+        </div>
+
         <div className="row item">
             <div className="twelve columns">
                 <h3 className="info">
