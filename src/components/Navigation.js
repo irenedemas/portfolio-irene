@@ -11,27 +11,27 @@ const Navigation = () => (
       </li>
       <li>
         <a className="smoothscroll" href="#about">
-          😎 ABOUT
+          ABOUT
         </a>
       </li>
       <li>
         <a className="smoothscroll" href="#product">
-          🏗 PRODUCT
+          PRODUCT
         </a>
       </li>
       <li>
         <a className="smoothscroll" href="#writing">
-          📝 WRITING
+          WRITING
         </a>
       </li>
       <li>
         <a className="smoothscroll" href="#fixations">
-          🎯 HEAVY FIXATION
+          HEAVY FIXATION
         </a>
       </li>
       <li>
         <a className="smoothscroll" href="#contact">
-          👋 CONTACT
+          CONTACT
         </a>
       </li>
     </ul>

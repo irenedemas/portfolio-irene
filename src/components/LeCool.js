@@ -8,7 +8,7 @@ const Skills = () => (
           <a href="http://barcelona.lecool.com" target="_blank">LE COOL</a>
         </span>
       </h1>
-      <p>A guide to Barcelona's best life 💃</p>
+      <p>A guide to Barcelona's best life</p>
     </div>
 
     <div className="nine columns main-col">

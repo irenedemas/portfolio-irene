@@ -12,11 +12,11 @@ const About = () => (
         <h1>IRENE DE MAS</h1>
         <p></p>
         <h2>My life is guided by two simple principles</h2>
-        <h2>🚀 Work Hard</h2>
+        <h2>Work Hard</h2>
         <p>As soon as I finish a project, I start creating something new — an app, a feature, an article, you name it. <a href="http://bit.ly/happierapps" target="_blank">A deep respect for well-designed products</a> brought me to <a href="https://medium.com/ironhack/coding-is-cheaper-than-therapy-a9448e43e54a" target="_blank">web and iOS development</a>, UX/UI Design...
         until I ended up building my own things.</p>
 
-        <h2>🤗 Be Nice to People</h2>
+        <h2>Be Nice to People</h2>
         <p>I have always focused on connecting with people — be it through design, writing, filmmaking, or anything I can come up with.
         Want to know more about this topic? I published an essay on <a href="https://medium.com/@irenedemas/strong-to-be-kind-5c7514b5cde2" target="_blank">self-improvement, working hard and being nice to people</a>.</p>
         <h2>... and random things that make me happy</h2>

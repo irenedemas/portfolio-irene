@@ -6,7 +6,7 @@ const Education = () => (
       <h1>
         <span><a href="http://www.perdizmagazine.com/en/" target="_blank">PERDIZ</a></span>
       </h1>
-      <p>A magazine about people and the things that make them happy 🐝</p>
+      <p>A magazine about people and the things that make them happy</p>
     </div>
 
     <div className="nine columns main-col">

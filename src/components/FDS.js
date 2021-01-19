@@ -8,7 +8,7 @@ const Work = () => (
             <a href="https://www.finnishdesignshop.com/design-stories/" target="_blank">DESIGN STORIES</a>
           </span>
         </h1>
-        <p>Pieces of Nordic happiness 🕯️</p>
+        <p>Pieces of Nordic happiness</p>
       </div>
 
       <div className="nine columns main-col">

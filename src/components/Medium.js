@@ -10,7 +10,7 @@ const Work = () => (
           </a>
         </span>
       </h1>
-      <p>Thoughts on life goals, food, tech and everything in between 🤔</p>
+      <p>Thoughts on life goals, food, tech and everything in between</p>
     </div>
 
     <div className="nine columns main-col">
@@ -29,7 +29,6 @@ const Work = () => (
               <a href="https://uxdesign.cc" target="_blank">
                 UX Collective
               </a>{" "}
-              ⭐
             </em>
           </h3>
         </div>
@@ -64,7 +63,6 @@ const Work = () => (
               <a href="https://uxdesign.cc" target="_blank">
                 UX Collective
               </a>{" "}
-              ⭐
             </em>
           </h3>
         </div>
@@ -118,7 +116,6 @@ const Work = () => (
               <a href="https://blog.usejournal.com" target="_blank">
                 Noteworthy
               </a>{" "}
-              ⭐
             </em>
           </h3>
         </div>
