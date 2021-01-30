@@ -11,7 +11,7 @@ const About = () => (
         <h3>Music</h3>
         <p>🏀 <a href="https://open.spotify.com/artist/0gasUYSkVsXgX3p3bera9b?si=1HNao1X9RY-rgMQ5a1UfQQ" target="_blank">Lildami</a></p>
         <h3>Podcast</h3>
-        <p>💀 <a href="https://www.primaverasound.com/en/radio/shows/deforme-semanal-ideal-total" target="_blank">Deforme Semanal Ideal Total (Isa Calderón & Lucía Lijtmaer)</a></p>
+        <p>🗼 <a href="https://lasotana.cat" target="_blank">La Sotana</a></p>
         <h3>Book</h3>
         <p>🎩 <a href="https://www.goodreads.com/book/show/53835.The_Age_of_Innocence" target="_blank">The Age of Innocence (Edith Wharton, 1920)</a></p>
         <h3>Film</h3>
