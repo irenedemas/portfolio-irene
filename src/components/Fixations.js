@@ -17,7 +17,7 @@ const About = () => (
         <h3>Film</h3>
         <p>🏰 <a href="https://www.netflix.com/title/80049832" target="_blank">Borgen (DR1, 2010)</a></p>
         <h3>Project</h3>
-        <p>🤖 <a href="https://www.irene.cool" target="_blank">Ask Irene 2.0</a></p>
+        <p>🤖 <a href="https://www.irene.cool" target="_blank">Ask Irene -2.0</a></p>
       </div>
     </div>
   </section>
