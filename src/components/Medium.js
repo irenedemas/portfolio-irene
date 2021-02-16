@@ -23,7 +23,7 @@ const Work = () => (
             </a>
             <span />
             <em className="date">
-            Ask Irene -2.0
+            Building Ask Irene -2.0
             </em>
           </h3>
         </div>
