@@ -14,6 +14,22 @@ const Work = () => (
     </div>
 
     <div className="nine columns main-col">
+
+    <div className="row item">
+        <div className="twelve columns">
+          <h3 className="info">
+            <a href="https://medium.com/@irenedemas/for-the-love-of-food-ask-irene-2-0-775ee2f1e53" target="_blank">
+            For the Love of Food
+            </a>
+            <span />
+            <em className="date">
+            Ask Irene -2.0
+            </em>
+          </h3>
+        </div>
+      </div>
+
+
       <div className="row item">
         <div className="twelve columns">
           <h3 className="info">
