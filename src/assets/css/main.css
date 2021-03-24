@@ -289,14 +289,14 @@ hr { border: solid #fff; border-width: 1px 0 0; clear: both; margin: 11px 0 30px
 
 a, a:visited {
    outline: 0;
-   color: #F5DDA0;
+   color: #FA3D56;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
    -o-transition: color .3s ease-in-out;
    transition: color .3s ease-in-out;
 }
-a:hover, a:focus { color: #F5DDA0; }
+a:hover, a:focus { color: #FA3D56; }
 p a, p a:visited { line-height: inherit; }
 
 
@@ -348,7 +348,7 @@ li { line-height: 18px; margin-bottom: 12px; }
   color: #313131;
 }
 .stats-tabs li a:hover {
-   color:#F5DDA0;
+   color:#FA3D56;
 }
 .stats-tabs li a b {
 	display: block;
@@ -419,13 +419,13 @@ color: #6E757C;
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #126AFB;
-   color: #F5DDA0;
+   background-color: #FAFAFA;
+   color: #FA3D56;
 }
 .pagination .inactive,
 .pagination .inactive:hover {
-  background-color: #126AFB;
-	color: #F5DDA0;
+  background-color: #FAFAFA;
+	color: #FA3D56;
 }
 
 /*  5. Images  --------------------------------------------------------- */
@@ -447,7 +447,7 @@ input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'poppins', sans-serif;
    font-weight: bold;
-   background: #4FCB8E;
+   background: #1D1D1D;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -814,7 +814,7 @@ properly.
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #126AFB;
+  background: #FAFAFA;
 }
 
 /* ------------------------------------------------------------------ */
@@ -826,7 +826,7 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #126AFB;
+  background: #FAFAFA;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -893,7 +893,7 @@ header .social li a {
   color: #fff;
 }
 header .social li a:hover {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 /* scrolldown link */
@@ -917,7 +917,7 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 /* primary navigation
@@ -930,10 +930,10 @@ header .scrolldown a:hover {
   border: none;
   outline: none;
   font-weight: 900;
-  background-color: #126AFB;
+  background-color: #FAFAFA;
 }
 #nav-wrap a:hover {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 /* nav-wrap */
@@ -996,7 +996,7 @@ ul#nav li a:active {
   font-weight: 900;
 }
 ul#nav li.current a {
-  color: #F5DDA0;
+  color: #FA3D56;
   font-weight: 900;
 }
 
@@ -1005,7 +1005,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: #4FCB8E;
+  background: #1D1D1D;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1017,7 +1017,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 #about h2 {
@@ -1052,7 +1052,7 @@ ul#nav li.current a {
 }
 #about .download .button:hover {
   background: #fff;
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 #about .download .button i {
   margin-right: 15px;
@@ -1064,7 +1064,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #product {
-  background: #126AFB;
+  background: #FAFAFA;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1076,7 +1076,7 @@ ul#nav li.current a {
 }
 #product a:hover,
 #product a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 #product h2 {
@@ -1111,7 +1111,7 @@ ul#nav li.current a {
 }
 #product .download .button:hover {
   background: #fff;
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 #product .download .button i {
   margin-right: 15px;
@@ -1123,7 +1123,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #writing {
-  background: #4FCB8E;
+  background: #1D1D1D;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -1136,7 +1136,7 @@ ul#nav li.current a {
 }
 #writing a:hover,
 #writing a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 #writing h1 {
@@ -1145,7 +1145,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #writing h1 span {
-  border-bottom: 3px solid #F5DDA0;
+  border-bottom: 3px solid #FA3D56;
   padding-bottom: 6px;
 }
 #writing h3 {
@@ -1536,7 +1536,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-  background: #4FCB8E;
+  background: #1D1D1D;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1548,7 +1548,7 @@ call-to-action .button {
 }
 #contact a:hover,
 #contact a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 #contact h2 {
   font: 22px/30px "poppins", sans-serif;
@@ -1584,7 +1584,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #fixations {
-  background: #126AFB;
+  background: #FAFAFA;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1596,7 +1596,7 @@ call-to-action .button {
 }
 #fixations a:hover,
 #fixations a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 #fixations h2 {
   font: 22px/30px "poppins", sans-serif;
@@ -1616,7 +1616,7 @@ call-to-action .button {
 footer {
   padding-top: 80px;
   padding-bottom: 24px;
-  background-color: #126AFB;
+  background-color: #FAFAFA;
   color: #fff;
   /*font-size: 14px; */
   font-family: "poppins", sans-serif;
@@ -1631,7 +1631,7 @@ footer a:visited {
 }
 footer a:hover,
 footer a:focus {
-  color: #F5DDA0;
+  color: #FA3D56;
 }
 
 /* copyright */
@@ -1690,7 +1690,7 @@ footer .social li:first-child {
   display: block;
   width: 60px;
   height: 60px;
-  background-color: #F5DDA0;
+  background-color: #FA3D56;
 
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1704,7 +1704,7 @@ footer .social li:first-child {
   border-radius: 100%;
 }
 #go-top a:hover {
-  background-color: #4FCB8E;
+  background-color: #1D1D1D;
 }
 
 /* ==================================================================
@@ -1824,7 +1824,7 @@ footer .social li:first-child {
   width: 48px;
   height: 48px;
   text-align: left;
-  background-color: #F5DDA0;
+  background-color: #FA3D56;
   position: relative;
     border: none;
     float: right;
@@ -1872,7 +1872,7 @@ footer .social li:first-child {
 #nav-wrap:target > ul#nav	{
     display: block;
     padding: 30px 20px 48px 20px;
-    background: #126AFB;
+    background: #FAFAFA;
     margin: 0 30px;
     clear: both;
  }
