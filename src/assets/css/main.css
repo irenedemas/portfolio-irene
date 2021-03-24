@@ -91,13 +91,13 @@ q:before, q:after {
 
 ins {
    background-color: #ff9;
-   color: #fff;
+   color: #1D1D1D;
    text-decoration: none;
 }
 
 mark {
    background-color: #A7F4F6;
-   color: #fff;
+   color: #1D1D1D;
 }
 
 del { text-decoration: line-through; }
@@ -142,7 +142,7 @@ body {
    font-weight: 400;
    font-size: 15px;
    line-height: 30px;
-	color: #fff;
+	color: #1D1D1D;
 
   -webkit-font-smoothing: antialiased;
 }
@@ -152,17 +152,17 @@ body {
 --------------------------------------------------------------------- */
 
 h1 {
-  color: #fff;
+  color: #1D1D1D;
   font-family: 'poppins', sans-serif;
   font-weight: 900;
 }
 h2 {
-  color: #fff;
+  color: #1D1D1D;
 	font-family: 'poppins', sans-serif;
   font-weight: 700;
 }
 h3, h4, h5, h6 {
-  color: #fff;
+  color: #1D1D1D;
 	font-family: 'poppins', sans-serif;
   font-weight: 400;
 }
@@ -282,7 +282,7 @@ abbr:hover { cursor: help; }
 	color: inherit;
 }
 
-hr { border: solid #fff; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
+hr { border: solid #1D1D1D; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
 
 
 /*  3. Links  ------------------------------------------------------- */
@@ -415,7 +415,7 @@ color: #6E757C;
 }
 .pagination .page-numbers:hover {
    background: #838A91;
-   color: #fff;
+   color: #1D1D1D;
 }
 .pagination .current,
 .pagination .current:hover {
@@ -451,7 +451,7 @@ input[type="button"] {
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
-   color: #fff;
+   color: #1D1D1D;
 	padding: 12px 20px;
 	margin-bottom: 18px;
    border: none;
@@ -476,7 +476,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
    background: #3d4145;
-   color: #fff;
+   color: #1D1D1D;
 }
 
 .button:active,
@@ -485,7 +485,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
    background: #3d4145;
-   color: #fff;
+   color: #1D1D1D;
 }
 
 .button.full-width,
@@ -855,25 +855,25 @@ header .banner-text {
 header .banner-text h1 {
   font: 90px/1.1em "poppins", sans-serif;
   font-weight: 900;
-  color: #fff;
+  color: #1D1D1D;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
   font: 18px/1.9em "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
   margin: 0 auto;
   width: 70%;
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-  color: #fff;
+  color: #1D1D1D;
 }
 header .banner-text hr {
   width: 60%;
   margin: 18px auto 24px auto;
-  border-color: #fff;
+  border-color: #1D1D1D;
   border-color: rgba(150, 150, 150, 0.1);
 }
 
@@ -890,7 +890,7 @@ header .social li {
   padding: 0;
 }
 header .social li a {
-  color: #fff;
+  color: #1D1D1D;
 }
 header .social li a:hover {
   color: #FA3D56;
@@ -902,13 +902,13 @@ header .scrolldown a {
   bottom: 30px;
   left: 50%;
   margin-left: -29px;
-  color: #fff;
+  color: #1D1D1D;
   display: block;
   height: 42px;
   width: 42px;
   font-size: 42px;
   line-height: 42px;
-  color: #fff;
+  color: #1D1D1D;
   border-radius: 100%;
 
   -webkit-transition: all 0.3s ease-in-out;
@@ -981,7 +981,7 @@ ul#nav li a {
   line-height: 32px;
   text-decoration: none;
   text-align: left;
-  color: #fff;
+  color: #1D1D1D;
   font-weight: 900;
 
   -webkit-transition: color 0.2s ease-in-out;
@@ -1013,7 +1013,7 @@ ul#nav li.current a {
 
 #about a,
 #about a:visited {
-  color: #fff;
+  color: #1D1D1D;
 }
 #about a:hover,
 #about a:focus {
@@ -1023,12 +1023,12 @@ ul#nav li.current a {
 #about h2 {
   font: 22px/30px "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
   margin-bottom: 12px;
 }
 #about p {
   line-height: 30px;
-  color: #fff;
+  color: #1D1D1D;
 }
 #about .profile-pic {
   position: relative;
@@ -1051,7 +1051,7 @@ ul#nav li.current a {
   background: #444;
 }
 #about .download .button:hover {
-  background: #fff;
+  background: #1D1D1D;
   color: #FA3D56;
 }
 #about .download .button i {
@@ -1072,7 +1072,7 @@ ul#nav li.current a {
 
 #product a,
 #product a:visited {
-  color: #fff;
+  color: #1D1D1D;
 }
 #product a:hover,
 #product a:focus {
@@ -1082,12 +1082,12 @@ ul#nav li.current a {
 #product h2 {
   font: 22px/30px "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
   margin-bottom: 12px;
 }
 #product p {
   line-height: 30px;
-  color: #fff;
+  color: #1D1D1D;
 }
 #product .profile-pic {
   position: relative;
@@ -1110,7 +1110,7 @@ ul#nav li.current a {
   background: #444;
 }
 #product .download .button:hover {
-  background: #fff;
+  background: #1D1D1D;
   color: #FA3D56;
 }
 #product .download .button i {
@@ -1131,7 +1131,7 @@ ul#nav li.current a {
 
 #writing a,
 #writing a:visited {
-  color: #fff;
+  color: #1D1D1D;
   text-decoration: none;
 }
 #writing a:hover,
@@ -1168,7 +1168,7 @@ ul#nav li.current a {
 }
 #writing .info {
 
-  color: #fff;
+  color: #1D1D1D;
   margin-bottom: 18px;
   margin-top: 9px;
 }
@@ -1204,7 +1204,7 @@ ul#nav li.current a {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
-  background: #fff;
+  background: #1D1D1D;
   overflow: hidden;
   position: relative;
 
@@ -1240,7 +1240,7 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap .link-icon {
   display: block;
-  color: #fff;
+  color: #1D1D1D;
   height: 30px;
   width: 30px;
   font-size: 18px;
@@ -1271,7 +1271,7 @@ ul#nav li.current a {
 .portfolio-item .portfolio-item-meta h5 {
   font: 14px/21px "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
 }
 .portfolio-item .portfolio-item-meta p {
   font: 12px/18px "poppins", sans-serif;
@@ -1294,7 +1294,7 @@ ul#nav li.current a {
 /* popup modal */
 .popup-modal {
   max-width: 550px;
-  background: #fff;
+  background: #1D1D1D;
   position: relative;
   margin: 0 auto;
 }
@@ -1328,7 +1328,7 @@ ul#nav li.current a {
   text-align: left;
 }
 .popup-modal .link-box a {
-  color: #fff;
+  color: #1D1D1D;
   font: 11px/21px "poppins", sans-serif;
   font-weight: bold;
   letter-spacing: 3px;
@@ -1375,7 +1375,7 @@ ul#nav li.current a {
   font: 18px/24px "poppins", sans-serif;
   font-weight: bold;
   letter-spacing: 3px;
-  color: #fff;
+  color: #1D1D1D;
 }
 #call-to-action h1 span {
   display: none;
@@ -1388,7 +1388,7 @@ ul#nav li.current a {
   line-height: 72px;
   text-align: left;
   float: left;
-  color: #fff;
+  color: #1D1D1D;
 }
 #call-to-action .action {
   margin-top: 12px;
@@ -1408,13 +1408,13 @@ ul#nav li.current a {
 }
 /*#
 call-to-action .button {
-	color:#fff;
+	color:#1D1D1D;
    background: #0D0D0D;
 }
 */
 #call-to-action .button:hover,
 #call-to-action .button:active {
-  background: #ffffff;
+  background: #1D1D1D;
   color: #0d0d0d;
 }
 #call-to-action p span {
@@ -1526,7 +1526,7 @@ call-to-action .button {
   background: rgba(255, 255, 255, 0.7);
 }
 .flex-control-paging li a.flex-active {
-  background: #fff;
+  background: #1D1D1D;
   background: rgba(255, 255, 255, 0.9);
   cursor: default;
 }
@@ -1544,7 +1544,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #fff;
+  color: #1D1D1D;
 }
 #contact a:hover,
 #contact a:focus {
@@ -1553,12 +1553,12 @@ call-to-action .button {
 #contact h2 {
   font: 22px/30px "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
   margin-bottom: 12px;
 }
 #contact p {
   line-height: 30px;
-  color: #fff;
+  color: #1D1D1D;
 }
 
 /* social links */
@@ -1573,7 +1573,7 @@ call-to-action .button {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #fff;
+  color: #1D1D1D;
 }
 #contact .social li:first-child {
   margin-left: 0;
@@ -1592,7 +1592,7 @@ call-to-action .button {
 
 #fixations a,
 #fixations a:visited {
-  color: #fff;
+  color: #1D1D1D;
 }
 #fixations a:hover,
 #fixations a:focus {
@@ -1601,12 +1601,12 @@ call-to-action .button {
 #fixations h2 {
   font: 22px/30px "poppins", sans-serif;
   font-weight: bold;
-  color: #fff;
+  color: #1D1D1D;
   margin-bottom: 12px;
 }
 #fixations p {
   line-height: 30px;
-  color: #fff;
+  color: #1D1D1D;
 }
 
 /* ------------------------------------------------------------------ */
@@ -1617,7 +1617,7 @@ footer {
   padding-top: 80px;
   padding-bottom: 24px;
   background-color: #FAFAFA;
-  color: #fff;
+  color: #1D1D1D;
   /*font-size: 14px; */
   font-family: "poppins", sans-serif;
   font-weight: medium;
@@ -1627,7 +1627,7 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #fff;
+  color: #1D1D1D;
 }
 footer a:hover,
 footer a:focus {
@@ -1652,7 +1652,7 @@ footer .copyright li:before {
   content: "\2022";
   padding-left: 10px;
   padding-right: 10px;
-  color: #fff;
+  color: #1D1D1D;
 }
 footer .copyright li:first-child:before {
   display: none;
@@ -1670,7 +1670,7 @@ footer .social li {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #fff;
+  color: #1D1D1D;
 }
 
 footer .social li:first-child {
@@ -1698,7 +1698,7 @@ footer .social li:first-child {
   -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 
-  color: #fff;
+  color: #1D1D1D;
   font-size: 21px;
   line-height: 60px;
   border-radius: 100%;
@@ -1841,7 +1841,7 @@ footer .social li:first-child {
 #nav-wrap > a:before,
  #nav-wrap > a:after {
   position: absolute;
-  border: 2px solid #fff;
+  border: 2px solid #1D1D1D;
   top: 35%;
   left: 25%;
   right: 25%;
