@@ -8,8 +8,8 @@ import FDS from "./FDS";
 
 const Resume = () => (
   <section id="writing">
-    <Medium />
     <FDS />
+    <Medium />
     <Perdiz />
     <Agapornis />
     <LeCool />
