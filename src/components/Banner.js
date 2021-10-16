@@ -9,7 +9,7 @@ const Banner = () => (
       I'm Irene de Mas,<br />Product Owner, Project Manager & Freelance Writer from Barcelona
       </h3>
       <SocialLinks />
-      <h3>☝️ Say hi or keep scrolling 👇</h3>
+      <h3>👆 Say hi or keep scrolling 👇</h3>
     </div>
   </div>
 );
