@@ -15,7 +15,7 @@ import {
 const SocialLinks = () => (
   <ul className="social">
     <li>
-      <a href="mailto:im@irene.cool">
+      <a href="mailto:irenedemasc@gmail.com">
         <FaPaperPlane />
       </a>
     </li>
