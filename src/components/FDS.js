@@ -16,6 +16,16 @@ const Work = () => (
         <div className="row item">
             <div className="twelve columns">
                 <h3 className="info">
+                <a href="https://www.finnishdesignshop.com/design-stories/architecture/walden-7-reflects-ricardo-bofills-visions-for-a-better-urban-living" target="_blank">Walden 7</a>
+                <span />
+                <em className="date">Bofill’s visions for better urban living</em>
+                </h3>
+            </div>
+        </div>
+
+        <div className="row item">
+            <div className="twelve columns">
+                <h3 className="info">
                 <a href="https://www.finnishdesignshop.com/design-stories/architecture/joan-miro-taller-sert-dream-studio-in-mallorca-is-a-work-of-art-itself" target="_blank">Taller Sert</a>
                 <span />
                 <em className="date">Joan Miró’s dream studio in Mallorca</em>
