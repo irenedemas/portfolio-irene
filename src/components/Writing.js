@@ -5,6 +5,7 @@ import Agapornis from "./Agapornis";
 import LeCool from "./LeCool";
 import Medium from "./Medium";
 import FDS from "./FDS";
+import FDS from "./Apartment";
 
 const Resume = () => (
   <section id="writing">
